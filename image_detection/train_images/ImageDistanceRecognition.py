@@ -47,7 +47,6 @@ class ImageDistanceRecognition(object):
         return self.inches_to_meters(inches)
 
     def inches_to_meters(self, inches):
-        print(inches)
-        cm = inches / 2.54
+        cm = inches * 2.54
         meter = cm / 100.00
         return meter
