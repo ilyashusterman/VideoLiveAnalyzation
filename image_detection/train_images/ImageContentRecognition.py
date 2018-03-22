@@ -2,6 +2,8 @@ import logging
 import operator
 from collections import Counter
 
+from unipath import Path
+
 from image_detection.train_images.classify_image import get_image_classification
 
 
@@ -59,3 +61,9 @@ class ImageRecognition(object):
         words = [old_word.replace(',', ' ') for old_word in words]
         all_words = words + new_words
         return all_words
+
+
+if __name__ == '__main__':
+    recognition = ImageRecognition(Path(Path(__file__).parent, 'test_bag.jpg'))
+    classification = recognition.classify_image()
+    print(classification['value'])
