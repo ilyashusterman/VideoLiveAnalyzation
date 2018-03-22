@@ -11,5 +11,5 @@ class TestImageDistanceRecognition(TestCase):
 
     def test_image_distance_desk(self):
         file_path = Path(Path(__file__).parent, 'test_plate.jpg')
-        distance = self.distance_recognition.get_distiance(file_path)
-        self.assertAlmostEqual(distance, 2)
+        distance = self.distance_recognition.get_object_distance(file_path)
+        self.assertEqual(distance, 0.09448818897637795, distance)
