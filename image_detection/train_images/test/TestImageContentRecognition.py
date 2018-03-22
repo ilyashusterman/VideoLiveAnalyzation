@@ -22,3 +22,10 @@ class TestImageRecognition(TestCase):
         classification = recognition.classify_image()
         self.assertTrue('plate' in classification['value'],
                         msg=classification)
+
+    def test_chair_image_classification(self):
+        recognition = ImageRecognition(Path(Path(__file__).parent, 'test_chair.jpg'))
+        classification = recognition.classify_image()
+
+        self.assertTrue('chair' in classification['value'],
+                        msg=classification)
