@@ -5,7 +5,7 @@ from collections import Counter
 from image_detection.train_images.classify_image import get_image_classification
 
 
-class Recognition(object):
+class ImageRecognition(object):
     DEFAULT_BEST_SCORE = 0.73
 
     def __init__(self, filename):
