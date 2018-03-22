@@ -1,0 +1,564 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- electropedicbeds-404.php -->
+	<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+
+<title>404 Error | ELECTROPEDICBEDS</title>
+<meta name="keywords" content="Electropedic, Latexpedic, Electric Scooters, Electric Wheelchairs, Electric Adjustable Beds, Stair Lifts, Wheelchair Elevators, Porch Lifts, Bariatric Beds, Hospital Beds" />
+<meta name="description" content="Electropedic Adjustable Beds, the ultimate in comfort.
+From 100% Pure Talalay latex mattresses to mobility chairs, stair lifts & bariatric beds, aamcare.com has it all." />
+<link href="../css/ELECTROPEDIC-LATEXPEDIC.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Tangerine:400,700&v2' rel='stylesheet' type='text/css'>
+
+<!-- BEGIN CUSTOM TOOLTIPS PART 1 of 2 -------------------DECIDED TO NOT USE...INCONSISTENT POSITIONING RESPONSE------------>
+<!--<SCRIPT language="JavaScript1.2" src="main.js"type="text/javascript"></SCRIPT>-->
+<!-- END TOOLTIPS PART 1 -->
+<!-- *** Will Bontrager's Show-Hide Toggle Script *** -->
+<script type="text/javascript" language="JavaScript"><!--
+function HideContent(d) {
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+document.getElementById(d).style.display = "block";
+}
+function ReverseDisplay(d) {
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+else { document.getElementById(d).style.display = "none"; }
+}
+//--></script>
+<!-- *** End Show-Hide Toggle Script *** -->
+
+<!-- ==================================================================== -->
+<!-- http://www.DynamicDrive.com/dynamicindex17/featuredcontentslider.htm -->
+<!-- (DEVELOPER'S VIEW) -->
+<!-- ==================================================================== -->
+
+<link rel="stylesheet" type="text/css" href="css/contentslider.css" />
+
+<script type="text/javascript" src="js/contentslider.js">
+
+/***********************************************
+* Featured Content Slider- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Please keep this notice intact
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
+<!-- ===end of manual DIV content slider link and script================== -->
+
+<!-- begin scripts for PRODUCT LINES SLIDER -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/j
+query.min.js"></script>
+<script type="text/javascript">
+jQuery(function($){
+$('#menusliderdiv').load('../product-lines.html');
+});
+</script>
+<!-- end scripts for PRODUCT LINES SLIDER -->
+<style>
+.YouTube img:last-child{
+	display:none;
+}
+.YouTube:hover img:first-child{
+	display:none;
+}
+.YouTube:hover img:last-child{
+	display:inline-block;
+}
+</style>
+</head>
+
+<body style="color: darkblue; background-color: #f6f3eb; background-image:url('../images/bgrepeat.png'); background-repeat: repeat;">
+<a name="top"></a>
+<!-- CUSTOM TOOLTIPS PART 2 of 2 -->
+<!--<DIV id="TipLayer" style="visibility:hidden;position:absolute;z-index:1000;top:-100"></DIV>
+<SCRIPT language="JavaScript1.2" src="style.js" type="text/javascript"></SCRIPT>
+<!-- TOOLTIPS END -------------------DECIDED TO NOT USE...INCONSISTENT POSITIONING RESPONSE------------> 
+<div id="container">
+<br />
+<div id="masthead" class="rounded20" style="background-image:url('../background-warm2.png');">
+<span style="float:left; font-size:16px; color:darkblue; position:relative; bottom:8px; left:35px; font-weight:bold;">WE ALSO <span style="color:red; font-size:14px; position:relative; bottom:2px; font-weight:bold;">&#0187;</span><a href="Rent.php" class="dark18px" style="text-decoration:underline;">RENT</a><span style="color:red; font-size:14px; position:relative; bottom:2px; font-weight:bold;">&#0171; </span>TOTALLY RECONDITIONED EQUIPMENT <span style="position:relative; left:9px; bottom:10px; border-bottom:1px solid darkblue;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+<span style="float:right; font-size:16px; font-weight:bold; color: darkblue; position:relative; bottom:8px; right:35px;">SERVING ALL AREAS: (800) 551-2010</span>	<center>
+	<div style="background-color:#e9e4d9; border:2px outset gray; width:954; margin:20px; margin-bottom:0px; padding-top:10px; position:relative; bottom:5px;" class="rounded20">
+	<div style="width:904px; border:5px inset lightgray; position:relative; left:0px; margin:20px; padding-bottom:15px; margin-top:10px; background-color:#e9e4d9; background-image:url('LPADJUSTABLE-BEDS-05.jpg'); background-size:120%; color:white;" class="rounded20"><center>
+	<center>
+	<a href="index.php" target="_self" class="dark12pxZEROund">
+	<table cellspacing="20">
+		<tr>
+			<td>
+			<img src="images/Electropedic-Logo-2-CLRBK.png" border="0" width="175" />
+			</td>
+			<td valign="middle" align="center">
+			<span style="font-family:'Times New Roman', Times, serif; font-size:24px; color:white; text-shadow:2px 2px 2px black; font-weight:bold;">The Ultimate in Comfort</span><br />
+			<span style="font-family:'Times New Roman', Times, serif; font-size:60px; color:white; text-shadow:3px 3px 3px black; font-weight:bold;">ELECTROPEDIC</span><br />
+			<span style="font-family:'Times New Roman', Times, serif; font-size:24px; color:white; text-shadow:2px 2px 2px black; font-weight:bold;">Adjustable Beds</span>
+			</td>
+		</tr>
+	</table>
+	</a>
+	</center></center></div>
+<center>
+<div style="height:30px;">
+<!--<hr width="710" style="color:lightgray; margin:0px; position:relative; bottom:11px;" />-->
+<table style="position:relative; bottom:15px;">
+	<tr>
+		<td>
+		1035 East Camelback Road | <a href="#fmap" onClick="javascript:ShowContent('fPhoenixMap');javascript:HideContent('fSanFranciscoMap');javascript:HideContent('fBurbankMap');javascript:HideContent('fGardenGroveMap')" class="dark10px">MAP</a><!-- opens map section & scrolls to show map --><br />
+		<a href="Phoenix.php" target="_self" class="blackredUnd12px" style="text-shadow:1px 1px 1px #888;font-weight:bold;"><span style="font-size:10px;">PHOENIX AZ</span></a>: <strong style="color:black;">800-733-1818</strong>
+		</td>
+			<td valign="middle" style="width:1px; height:20px; border-right:1px solid black; padding-left:1px;">&nbsp;
+			
+			</td>
+			<td valign="middle" style="width:1px; height:20px; padding-right:1px;">&nbsp;
+			
+			</td>
+		<td>
+		907 North Hollywood Way | <a href="#fmap" onClick="javascript:ShowContent('fBurbankMap');javascript:HideContent('fSanFranciscoMap');javascript:HideContent('fPhoenixMap');javascript:HideContent('fGardenGroveMap')" class="dark10px">MAP</a><!-- opens map section & scrolls to show map --><br />
+		<a href="Burbank.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;"><span style="font-size:10px;">BURBANK CA</span></a>: <strong style="color:black;">800-727-1954</strong>
+		</td>
+			<td valign="middle" style="width:1px; height:20px; border-right:1px solid black; padding-left:1px;">&nbsp;
+			
+			</td>
+			<td valign="middle" style="width:1px; height:20px; padding-right:1px;">&nbsp;
+			
+			</td>
+		<td>
+		12557 Harbor Boulevard | <a href="#fmap" onClick="javascript:ShowContent('fGardenGroveMap');javascript:HideContent('fSanFranciscoMap');javascript:HideContent('fBurbankMap');javascript:HideContent('fPhoenixMap')" class="dark10px">MAP</a><!-- opens map section & scrolls to show map --><br />
+		<a href="GardenGrove.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;"><span style="font-size:10px;">GARDEN GROVE CA</span></a>: <strong style="color:black;">800-824-3145</strong>
+		</td>
+			<td valign="middle" style="width:1px; height:20px; border-right:1px solid black; padding-left:1px;">&nbsp;
+			
+			</td>
+			<td valign="middle" style="width:1px; height:20px; padding-right:1px;">&nbsp;
+			
+			</td>
+		<td>
+		18 Bartol Street | <a href="#fmap" onClick="javascript:ShowContent('fSanFranciscoMap');javascript:HideContent('fGardenGroveMap');javascript:HideContent('fBurbankMap');javascript:HideContent('fPhoenixMap')" class="dark10px">MAP</a><!-- opens map section & scrolls to show map --><br />
+		<a href="SanFrancisco.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;"><span style="font-size:10px;">SAN FRANCISCO CA</span></a>: <strong style="color:black;">877-727-1954</strong>
+		</td>
+	</tr>
+</table>
+	<center>
+	<div style="position:relative; top:8px; text-shadow:2px 2px 2px #000; border:2px solid red; width:300px; height:30px;" class="rounded10">
+	<center>
+	<span style="font-size:24px; font-weight:bold; color:#e9e4d9;">404 ERROR</span>
+	</center>
+	</div>
+	</center>
+<br />
+</div>
+</center>
+	</div>
+	</center>
+	</center>
+	<br>
+	<span style="color:darkblue;">
+		<div style="position:relative; top:15px;">
+		<h1 style="text-shadow: 2px 2px 2px #888;">ELECTRIC HOME CARE PRODUCTS</h1>
+		<span style="position:relative;bottom:15px;">
+			<span style="font-weight:bold;text-shadow:2px 2px 2px #888; color:red;">
+				SINCE 1964&nbsp;
+			</span>
+			<span style="float:right;margin-right:30px;position:relative;bottom:7px;">
+				
+			</span>
+		</span>
+		</div>
+		<hr width="710" style="color:lightgray; position:relative; top:5px;" />
+		<center>
+		<table style="position:relative;right:4px;">
+			<tr>
+				<td valign="top" rowspan="2" style="border-right:1px solid lightgray;">
+					<strong style="position:relative;top:6px;left:10px;text-shadow:2px 2px 2px #888;font-size:16px;font-weight:bold;">Electropedic Products:&nbsp;&nbsp;&nbsp;</strong>
+				</td>
+				<td style="padding-left:2px;position:relative;right:1px;">
+					<a href="Adjustable-Beds.php" target="_self" class="dark12px">Adjustable Beds</a> &#0149; 
+					<a href="Bariatric-Beds.php" target="_self" class="dark12px">Bariatric Beds</a> &#0149; 
+					<a href="Hospital-Beds.php" target="_self" class="dark12px">Hospital Beds</a> &#0149; </a>
+					<a href="Wheelchairs.php" target="_self" class="dark12px">Wheelchairs</a>
+				</td>
+			</tr>
+			<tr>
+				<td style="padding-left:2px;postion:relative;right:5px;">
+					<a href="Lift-Chairs.php" target="_self" class="dark12px">Lift Chairs</a> &#0149; </a>
+					<a href="Scooter-Lifts.php" target="_self" class="dark12px">Scooter Lifts</a> &#0149; 
+					<a href="Stair-Lifts.php" target="_self" class="dark12px">Stair Lifts</a> &#0149; 
+					<a href="Porch-Lifts.php" target="_self" class="dark12px">Porch Lifts</a> &#0149; 
+					<a href="Scooters.php" target="_self" class="dark12px">Scooters</a>
+				</td>
+			</tr>
+		</table>
+		<hr width="710" style="color:lightgray;" />
+		<div style="position:relative; top:2px;">
+		<a href="http://www.seniormobilitythriftstore.com/" target="Seniormobility" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">USED FOR 1/2 OFF!</a>	
+		&nbsp;&nbsp;&nbsp;&#0171;&#0149;&#0187;&nbsp;&nbsp;
+		<a href="Video-Gallery.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">VIDEO GALLERY</a>
+		&nbsp;&nbsp;&nbsp;&#0171;&#0149;&#0187;&nbsp;&nbsp;
+		<a href="Rent.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">EQUIPMENT RENTALS</a>
+		&nbsp;&nbsp;&nbsp;&#0171;&#0149;&#0187;&nbsp;&nbsp;
+			<a href="https://www.youtube.com/embed/yY_wPEW1Pxs" target="v1" onClick="javascript:ShowContent('b1');javascript:HideContent('b2');javascript:ShowContent('THEULTIMATE-V1');javascript:HideContent('THEULTIMATE-V2')" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">THE ULTIMATE Video 1</a>
+		&nbsp;&nbsp;&nbsp;&#0171;&#0149;&#0187;&nbsp;&nbsp;
+			<a href="https://player.vimeo.com/video/212913927" target="v2" onClick="javascript:ShowContent('b2');javascript:HideContent('b1');javascript:ShowContent('THEULTIMATE-V2');javascript:HideContent('THEULTIMATE-V1')" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">THE ULTIMATE Video 2</a>
+			<span id="b1" style="display:none;"><a href="video-blank-placeholder(stop).html" target="v1" onClick="javascript:HideContent('b1');javascript:HideContent('THEULTIMATE-V1');javascript:HideContent('THEULTIMATE-V2')" class="dark10px">Stop Video</a></span>
+			<span id="b2" style="display:none;"><a href="video-blank-placeholder(stop).html" target="v2" onClick="javascript:HideContent('b2');javascript:HideContent('THEULTIMATE-V2');javascript:HideContent('THEULTIMATE-V1')" class="dark10px">Stop Video</a></span>
+			<div id="THEULTIMATE-V1" style="display:none; width:600px; height:410px;">
+				<iframe name="v1" width="640" height="360" src="https://www.youtube.com/embed/yY_wPEW1Pxs" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<div id="THEULTIMATE-V2" style="display:none; width:600px; height:700px;">
+				<iframe name="v2" src="https://player.vimeo.com/video/212913927" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+				<p><a href="https://vimeo.com/212913927">Latexpedic THE ULTIMATE 11&quot; 100% Pure Talalay Latex Mattress.  3-Layers, Zippers, Socks, Chambers, . . .</a> from <a href="https://vimeo.com/user17668422">Lloyd Kraus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+			</div>
+		</div>
+		<table>
+			<tr>
+				<td>
+					<h3><a href="Latexpedic-Mattresses.php" target="_self" class="dark18pxUnd">LATEXPEDIC 100% PURE TALALAY LATEX MATTRESSES</a></h3>
+				</td>
+			</tr>
+		</table>
+		<br />
+		<span style="position:relative; bottom:20px;"><a href="Latexpedic-Firmness.php#onlinebrochure" class="dark12px">ElectroPEDIC / LatexPEDIC Construction &amp; Firmness Online Brochure</a>
+		</span><br />
+		</center>
+	</span>
+	<center>
+	
+	<div style="background-color:#e9e4d9; border:2px outset gray; width:954; height:100%; margin:20px; margin-bottom:0px; padding-top:10px; position:relative; bottom:0px;" class="rounded20">
+	<div style="width:859px; border:5px inset lightgray; position:relative; left:0px; padding:20px; margin:20px; margin-top:10px; background-color:#ffffff; background-repeat: no-repeat; background-size: 100%; color:white;" class="rounded20">
+		<div style="width:820px;; height:100%; margin:0px; padding:20px; border:2px solid red; color:darkblue; font-size:18px; text-align:left;" class="rounded20">
+		You have arrived at this page because the page requested, by link or typing it in the address bar, is not found. The file may have existed previously. <strong style="border-bottom:1px solid red;">Browse the menus above and below this notice to find the products and information you would like to know more about</strong>.<strong>
+		<br /><span style="font-size:6px;"><br /></span>	<center>
+		<em style="color:blue;">Thank you for remembering us for Electric Home Care Products!</em></strong>
+		<br /><span style="font-size:6px;"><br /></span>
+		<strong>Please feel free to call us if you have any questions?<br /><span style="font-size:6px;"><br /></span>
+		<span style="font-size:24px;">(800) 551-2010</span></strong>
+		</center>
+		</div>
+	</div>
+	</div>
+	
+	</center>
+	<br /><br /><br />
+	<div style="background-color:#e9e4d9; border:2px outset gray; width:954; height:622px; margin:20px; margin-bottom:0px; padding-top:10px; position:relative; bottom:0px;" class="rounded20">
+	<div style="width:904px; border:5px inset lightgray; position:relative; left:0px; padding-top:20px; padding-bottom:5px; margin:20px; margin-top:10px; background-color:#ffffff; background-image:url('images/adjustable-beds-comfortable.jpg'); background-repeat: no-repeat; background-size: 100%; color:white;" class="rounded20">
+	<div>
+	<table>
+		<tr>
+			<td align="center" valign="top" width="25%">
+			<div style="font-weight:bold; color:white; text-shadow:2px 2px 2px black; border:1px solid white; padding:10px; margin-right:5px; position:relative; top:55px;" class="rounded10">
+			<div style="position:relative; bottom:17px">
+			<span style="position:relative; right:60px; top:15px;"><em>We are</em></span>
+			<h2 style="color:gold;">AUTHORIZED DEALERS</h2>
+			<span style="position:relative; bottom:13px;">OF OVER 50 DIFFERENT<br />
+			ELECTRIC HOMECARE<br />
+			PRODUCTS MANUFACTURERS</span>
+			</div>
+			<hr width="150" style="border:1px solid white; position:relative; bottom:2px;" />
+			<br />
+			<a href="Volkner.html" target="_self" class="tealZeroUnd18px" style="border-bottom:1px solid teal; font-weight:bold; text-shadow:2px 2px 2px white;">V&#0246;lkner<sup>&#0174;</sup> Mattresses</a><br />
+			<br />
+			</div>
+			</td>
+			<td align="center" valign="top" width="50%">
+			<h1 style="text-shadow:2px 2px 2px black;"><strong>ELECTRIC HOMECARE PRODUCTS</strong></h1>
+			<h2 style="text-shadow:2px 2px 2px black;">SERVING ALL AREAS: (800) 551-2010</h2>
+			<h2 style="text-shadow:2px 2px 2px black;">Est. 1964</h2>
+			<h2 style="text-shadow:2px 2px 2px black;">A+ Rating BBB</strong></h2>
+			</td>
+			<td align="left" valign="top" width="25%">
+			<div style="font-weight:bold; color:white; text-shadow:2px 2px 2px black; border:1px solid white; padding:10px; margin-right:5px; position:relative; top:55px;" class="rounded10">
+				<center>
+				<span style="color:gold;">
+				WORLD'S LOWEST PRICES
+				</span>
+				</center>
+				<br />
+				36" x 80" | 42" x 80"<br />
+				46" x 80" | 53" x 80"<br />
+				60" x 80" | Split King<br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;<a href="Transfer-Master-Bariatric-Beds.html" target="_self" class="whiteZeroUnd12px" style="border-bottom:1px solid blue;">Transfer Master</a><br />
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Transfer-Master-Bariatric-Beds.html" target="_self" class="whiteZeroUnd12px" style="border-bottom:1px solid blue;">Bariatric Beds
+				</a><br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;Burke-Bariatric<br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;<a href="Tuffcare.html" target="_self" class="whiteZeroUnd12px" style="border-bottom:1px solid blue;">Tuffcare</a><br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;DriveMedical<br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;Invacare<br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;Trendellenburg<br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;Latexpedic<br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;SpanAmerica<br />
+				&nbsp;&nbsp;&nbsp;&#0149;&nbsp;BlueChip
+			</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div style="margin-top:110px;">
+<span style="text-shadow:2px 2px 2px black;"><strong>
+	What Does
+	<!-- Script calculates the number of years since 1964 -->
+	<script language="JavaScript" type="text/javascript">
+		now = new Date
+		theYear=now.getYear()
+		if (theYear < 1900)
+		theYear=theYear+1900
+		sincethen = theYear - 1964
+		document.write(sincethen)
+	</script> 
+	Years of Experience Mean to You?<br />
+	<span style="color:gold">The RIGHT Electric Homecare Product</span><br />
+	BEFORE YOU BUY an Electric Homecare Product,<br />
+	Compare Price, Quality, Guarantee, Service &amp; Selection;<br />
+	And talk to the most EXPERIENCED company in the industry.<br />
+	<h2 style="color:white; text-shadow:2px 2px 2px black;">&quot;<span style="border-bottom:1px solid red;">Your 100% Satisfaction is our first and foremost goal</span>!&quot;</h2>
+</strong></span>
+</div>
+<h1 style="text-shadow:2px 2px 2px black; font-stretch:extra-expanded;">Never Undersold - Always the Lowest Price</h1></strong></div>
+</div>
+</div>
+	<div style="position:relative; bottom:1px;">            <!-- unique positioner -->
+		<a name="footermenu"></a>
+	<!-- Begin Pre-Footer Slider menu with text menu -->
+	<center>
+	<div id="footer" class="rounded20" style="background-image:url('background-warm2.png'); width:998px; height:260px; margin-top:20px;">
+		<center>
+		<div style="background-color:#e9e4d9; width:910px; height:215px; border:2px outset gray; padding:20px" class="rounded20">
+		<div id="menusliderdiv" style="width:900px; height:175px; border:5px inset lightgray; background-color:white;" class="rounded10"></div>
+		<div style="width:920px; font-size:12px; color:#262161;">
+			<span style="display:block; margin-top:5px; margin-bottom:5px;">
+				<a href="Adjustable-Beds.php" target="_self" class="dark12px">Adjustable Beds</a>&nbsp;&bull;&nbsp;
+				<a href="Bariatric-Beds.php" target="_self" class="dark12px">Bariatric Beds</a>&nbsp;&bull;&nbsp;
+				<a href="Hospital-Beds.php" target="_self" class="dark12px">Hospital Beds</a>&nbsp;&bull;&nbsp;
+				<a href="Lift-Chairs.php" target="_self" class="dark12px">Lift Chairs</a>&nbsp;&bull;&nbsp;
+				<a href="Scooter-Lifts.php" target="_self" class="dark12px">Mobility Scooter Lifts</a>&nbsp;&bull;&nbsp;
+				<a href="Wheelchairs.php" target="_self" class="dark12px">Power Wheelchairs</a><br />
+			</span>
+			<span style="display:block; margin-top:5px; margin-bottom:5px;">
+				<a href="Scooters.php" target="_self" class="dark12px">Mobility Scooters</a>&nbsp;&bull;&nbsp;
+				<a href="Stair-Lifts.php" target="_self" class="dark12px">Stair Lifts</a>&nbsp;&bull;&nbsp;
+				<a href="Porch-Lifts.php" target="_self" class="dark12px">Porch Wheelchair Elevator Lifts</a>&nbsp;&bull;&nbsp;
+				<a href="http://www.seniormobilitythriftstore.com" target="seniormobility" class="dark12px">Used Equipment at <span style="border-bottom:2px solid red;">1/2 OFF</span></a>&nbsp;&bull;&nbsp;
+				<a href="Rent.php" target="_self" class="dark12px">Local Rentals</a>
+			</span>
+		</div>
+		</div>
+		</center>
+	</div>
+		<a href="#top" class="dark12pxZEROund"><strong>Go to TOP of Page</strong></a>
+	</center>
+	<!-- End Pre-Footer Slider menu with text menu -->
+	<!-- Begin Footer -->
+	<center>
+	<div style="position:relative; top:0px; padding:20px; background-color:#e9e4d9; background-image:url('background-warm2.png');	border-top: 2px solid #dcdcdc;
+	border-right: 2px solid #a9a9a9;
+	border-bottom: 2px solid #808080;
+	border-left: 2px solid #a9a9a9;
+" class="rounded20">
+	<div style="background-color:#e9e4d9; border:2px outset gray; padding:20px;" class="rounded20">
+	<div id="footer" class="rounded20" style="width:900px; border:5px inset lightgray;  background-image:url('images/adjustable-beds-05-lighter.jpg');">
+			<div style="margin:0px; padding:0px; margin-bottom:0px; position:relative; bottom:10px;">
+				<a href="https://vimeo.com/search?q=latexpedic" target="_blank" class="imageNoDeco" onmouseover="document.vimeofooter.src='images/orbicon-vimeo-64x64-hov.png';" onmouseout="document.vimeofooter.src='images/orbicon-vimeo-64x64.png';"><img name="vimeofooter" src="images/orbicon-vimeo-64x64.png" alt="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on vimeo" title="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on vimeo" border="0" /></a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://twitter.com/Latexpedic" target="_blank" class="imageNoDeco" onmouseover="document.twitterfooter.src='images/orbicon-twitter-64x64-hov.png';" onmouseout="document.twitterfooter.src='images/orbicon-twitter-64x64.png';"><img name="twitterfooter" src="images/orbicon-twitter-64x64.png" alt="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on twitter" title="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on twitter" border="0" /></a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://www.facebook.com/pages/ElectropedicbedsCom-Adjustable-Beds/103166359748921" target="_blank" class="imageNoDeco" onmouseover="document.facebookfooter.src='images/orbicon-facebook-64x64-hov.png';" onmouseout="document.facebookfooter.src='images/orbicon-facebook-64x64.png';"><img name="facebookfooter" src="images/orbicon-facebook-64x64.png" alt="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on facebook" title="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on facebook" border="0" /></a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://plus.google.com/112807617111622748212" target="_blank" class="imageNoDeco" onmouseover="document.googleplusfooter.src='images/orbicon-googleplus-64x64-hov.png';" onmouseout="document.googleplusfooter.src='images/orbicon-googleplus-64x64.png';"><img name="googleplusfooter" src="images/orbicon-googleplus-64x64.png" alt="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on google+" title="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on google+" border="0" /></a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://www.youtube.com/watch?v=Pi6xwQnYorc&t=75s" target="_blank" class="imageNoDeco" onmouseover="document.youtubefooter.src='images/orbicon-youtube-64x64-hov.png';" onmouseout="document.youtubefooter.src='images/orbicon-youtube-64x64.png';"><img name="youtubefooter" src="images/orbicon-youtube-64x64.png" alt="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on YouTube" title="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on YouTube" border="0" /></a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://www.pinterest.com/search/pins/?q=latexpedic&rs=typed&term_meta[]=latexpedic%7Ctyped" target="_blank" class="imageNoDeco" onmouseover="document.pinterestfooter.src='images/orbicon-pinterest-64x64-hov.png';" onmouseout="document.pinterestfooter.src='images/orbicon-pinterest-64x64.png';"><img name="pinterestfooter" src="images/orbicon-pinterest-64x64.png" alt="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on pinterest" title="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on pinterest" border="0" /></a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://www.yelp.com/biz/electropedic-adjustable-beds-burbank" target="_blank" class="imageNoDeco" onmouseover="document.yelpfooter.src='images/orbicon-yelp-64x64-hov.png';" onmouseout="document.yelpfooter.src='images/orbicon-yelp-64x64.png';"><img name="yelpfooter" src="images/orbicon-yelp-64x64.png" alt="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on yelp" title="ElectropedicBeds.com, Electropedic &amp;  Latexpedic on yelp" border="0" /></a>
+			</div>
+			<div style="position:relative; bottom:15px;">
+				<span style="position:relative; right:21px;"><a href="https://vimeo.com/search?q=latexpedic" target="_blank" class="dark10px">vimeo</a></span>
+				<span style="position:relative; top:2px; right:5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://twitter.com/Latexpedic" target="_blank" class="dark10px" style="position:relative; right:5px;">twitter</a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://www.facebook.com/pages/ElectropedicbedsCom-Adjustable-Beds/103166359748921" target="_blank" class="dark10px">facebook</a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://plus.google.com/112807617111622748212" target="_blank" class="dark10px">google+</a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="https://www.youtube.com/watch?v=Pi6xwQnYorc&t=75s" target="_blank" class="dark10px">YouTube</a>
+				<span style="position:relative; top:2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<a href="" target="_blank" class="dark10px" style="position:relative; left:2px;">Pinterest</a>
+				<span style="position:relative; top:2px; left:5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<span style="position:relative; left:13px;"><a href="https://www.yelp.com/biz/electropedic-adjustable-beds-burbank" target="_blank" class="dark10px">yelp</a></span>
+			</div>
+			<hr width="780" style="color:lightgray;" />
+			<center>
+			<table>
+				<tr>
+					<td valign="top" rowspan="2" style="border-right:1px solid lightgray;">
+						<strong style="position:relative;top:6px;right:10px;text-shadow:2px 2px 2px #888;font-size:16px;font-weight:bold;">Latex Mattresses:&nbsp;&nbsp;&nbsp;</strong>
+					</td>
+					<td style="padding-left:7px;">
+						<a href="Latexpedic-Firmness.php#onlinebrochure" target="_self" class="dark12px">About Latexpedic</a> &#0149; 
+						<a href="Latexpedic-Mattresses.php#talalayprocessdetails" target="_self" class="dark12px">No.1 Rated Material</a> &#0149; 
+						<a href="Latexpedic-Mattresses.php#whatislatex" target="_self" class="dark12px">What Is Latex?</a> &#0149; 
+						<a href="Latexpedic-Firmness.php" target="_self" class="dark12px">Firmness</a>
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-left:7px;">
+						<a href="Shl-7in.php" target="_self" class="dark12pxUnd">7" Mattress</a> &#0149; 
+						<a href="Shl-9in.php" target="_self" class="dark12pxUnd">9" High Profile</a> &#0149; 
+						<a href="Shl-11in.php" target="_self" class="dark12pxUnd">11" The ULTIMATE</a> &#0149; 
+						<a href="Shl-NAO.php" target="_self" class="dark12px">NAO|Natural and Organic</a>
+					</td>
+				</tr>
+			</table>
+		<hr width="780" style="color:lightgray;margin-bottom:14px;" />
+		<span style="position:relative;bottom:6px;"><a href="http://www.seniormobilitythriftstore.com" class="blackredUnd12px" target="seniormobility" style="text-shadow:2px 2px 2px #888;font-weight:bold;">SENIOR MOBILITY THRIFT STORE</a> &#0150; <a href="http://www.seniormobilitythriftstore.com" class="blackredUnd12px" target="seniormobility" style="text-shadow:2px 2px 2px #888;font-weight:bold;">1/2 OFF ON USED PRODUCTS</a> <span style="color:#000000;font-weight:bold; text-shadow: 2px 2px 2px #888;">!!!</span> &#0150; <span style="color:#000000;font-weight:bold; text-shadow: 2px 2px 2px #888;">800-727-1954</span></span>
+		<hr width="780" style="color:lightgray;" />
+		<span style="position:relative;top:2px;">
+			<center>
+			<table style="position:relative;left:5px;">
+				<tr>
+					<td valign="middle" style="border-right:1px solid lightgray;">
+						<strong style="position:relative;bottom:2px;right:10px;font-size:16px;font-weight:bold;">SHOWROOMS:</strong>
+					</td>
+					<td style="padding-left:7px;" valign="middle">
+					<table>
+						<tr>
+							<td>
+							<a href="Phoenix.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">
+							PHOENIX <span style="font-size:10px;">AZ</span></a>
+							. . . . . . . .
+							</td>
+							<td>
+							<a href="#fmap" onClick="javascript:ShowContent('fPhoenixMap');javascript:HideContent('fSanFranciscoMap');javascript:HideContent('fBurbankMap');javascript:HideContent('fGardenGroveMap')" class="dark10px">MAP</a>: 
+							</td>
+							<td>1035 East Camelback Road, Phoenix, AZ 85014
+							</td>
+							<td>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;<strong style="text-shadow: 2px 2px 2px #888;">800-733-1818</strong><br>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a href="Burbank.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">
+							BURBANK <span style="font-size:10px;">CA</span></a>
+							. . . . . . . .
+							</td>
+							<td>
+							<a href="#fmap" onClick="javascript:ShowContent('fBurbankMap');javascript:HideContent('fSanFranciscoMap');javascript:HideContent('fPhoenixMap');javascript:HideContent('fGardenGroveMap')" class="dark10px">MAP</a>: 
+							</td>
+							<td>907 North Hollywood Way, Burbank, CA 91505
+							</td>
+							<td>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;<strong style="text-shadow: 2px 2px 2px #888;">800-727-1954</strong><br>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a href="GardenGrove.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">
+							GARDEN GROVE <span style="font-size:10px;">CA</span></a>
+							. . .
+							</td>
+							<td>
+							<a href="#fmap" onClick="javascript:ShowContent('fGardenGroveMap');javascript:HideContent('fSanFranciscoMap');javascript:HideContent('fPhoenixMap');javascript:HideContent('fBurbankMap')" class="dark10px">MAP</a>: 
+							</td>
+							<td>12557 Harbor Blvd., Garden Grove, CA 92840
+							</td>
+							<td>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;<strong style="text-shadow: 2px 2px 2px #888;">800-824-3145</strong>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a href="SanFrancisco.php" target="_self" class="blackredUnd12px" style="text-shadow:2px 2px 2px #888;font-weight:bold;">
+							<span style="color:black; font-weight:bold; text-shadow:1px 1px 1px #888;font-weight:bold;">SAN FRANCISCO <span style="font-size:10px;">CA</span></span>
+							. . .
+							</td>
+							<td>
+							<a href="#fmap" onClick="javascript:ShowContent('fSanFranciscoMap');javascript:HideContent('fGardenGroveMap');javascript:HideContent('fPhoenixMap');javascript:HideContent('fBurbankMap')" class="dark10px">MAP</a>: 
+							</td>
+							<td>18 Bartol Street, San Francisco, CA 94133
+							</td>
+							<td>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;<strong style="text-shadow: 2px 2px 2px #888;">877-727-1954</strong>
+							</td>
+						</tr>
+					</table>
+					</td>
+				</tr>
+			</table>
+		</span>
+		<hr width="780" style="color:lightgray;" />
+		<br style="font-size:2px;">
+		<strong style="text-shadow: 2px 2px 2px #888;">SERVING ALL AREAS: 800-551-2010</strong>
+		<!--<span style="position:relative;bottom:0px;">
+			<a href="index.php" class="dark12px">Home</a>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;
+			<a href="Shl-about.php" class="dark12px">About</a>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;
+			<a href="Shl-news.php" class="dark12px">News</a>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;
+			<a href="Shl-cal.php" class="dark12px">Calendar</a>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;
+			<a href="Shl-photos.php" class="dark12px">Photo Gallery</a>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;
+			<a href="Video-Gallery.php" class="dark12px">Video Gallery</a>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;
+			<a href="Shl-links.php" class="dark12px">Links</a>&nbsp;&nbsp;&#0149;&nbsp;&nbsp;
+			<a href="Shl-faq.php" class="dark12px">FAQ</a><br />
+		</span>-->
+	</div>
+	</div>
+	</center>
+	<!-- End Footer -->
+	<!-- Begin Subfooter (copyright) -->
+	<center>
+	<span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666; position:relative; top:50px;">&#0169; Copyright <script language="JavaScript" type="text/javascript">
+																			now = new Date
+																			theYear=now.getYear()
+																			if (theYear < 1900)
+																			theYear=theYear+1900
+																			document.write(theYear)
+																		</script> electropedicbeds.com</span> 
+	<br/><br />
+	</center>
+	<!-- End Subfooter (copyright) -->
+</div>
+
+<!-- Begin Triple Show-Hide Map Display Area -->
+<a name="fmap"></a>
+<center>
+
+<br />
+<div id="fPhoenixMap" style="display:none; width:600px; height:450px;">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2759.262359445141!2d-112.0612400854045!3d33.5089506536126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b129823980359%3A0x417c2528af61da3f!2s1035+E+Camelback+Rd%2C+Phoenix%2C+AZ+85014!5e1!3m2!1sen!2sus!4v1485157370696" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<br />
+	<span style="display:block; padding:5px; background-color:white;" class="rounded10">
+	<a href="#top" class="dark12pxZEROund" onclick="javascript:HideContent('fPhoenixMap')"><strong>TOP of Page</strong></a>
+	</span>
+	<br /><br />
+</div>
+
+<div id="fBurbankMap" style="display:none; width:600px; height:450px;">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2643.1709203376004!2d-118.34881848538546!3d34.166366619156044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c295802203e745%3A0x9d4833613889399f!2s907+N+Hollywood+Way%2C+Burbank%2C+CA+91505!5e1!3m2!1sen!2sus!4v1485157027779" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<br />
+	<span style="display:block; padding:5px; background-color:white;" class="rounded10">
+	<a href="#top" class="dark12pxZEROund" onclick="javascript:HideContent('fBurbankMap')"><strong>TOP of Page</strong></a>
+	</span>
+	<br /><br />
+</div>
+
+<div id="fGardenGroveMap" style="display:none; width:600px; height:450px;">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2750.5559286838215!2d-117.91777828539662!3d33.78102433942246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcd7f844eb27d9%3A0x84bda045826cca7e!2s12557+Harbor+Blvd%2C+Garden+Grove%2C+CA+92840!5e1!3m2!1sen!2sus!4v1485157307050" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<br /><br />
+	<span style="display:block; width:210px; padding:5px; background-color:white; border:3px outset black;" class="rounded10">
+	<a href="#top" class="dark12pxZEROund" onclick="javascript:HideContent('fGardenGroveMap')"><strong>Close Map &amp; Go to TOP of Page</strong></a>
+	</span>
+	<br /><br />
+</div>
+
+<div id="fSanFranciscoMap" style="display:none; width:600px; height:450px;">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.6637508949193!2d-122.40333480000001!3d37.797919199999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580f50e2e5175%3A0xb33983833f77360f!2s18+Bartol+St%2C+San+Francisco%2C+CA+94133!5e0!3m2!1sen!2sus!4v1505413549467" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<br /><br />
+	<span style="display:block; width:210px; padding:5px; background-color:white; border:3px outset black;" class="rounded10">
+	<a href="#top" class="dark12pxZEROund" onclick="javascript:HideContent('fSanFranciscoMap')"><strong>Close Map &amp; Go to TOP of Page</strong></a>
+	</span>
+	<br /><br />
+</div>
+
+</center>
+<!-- End Triple Show-Hide Map Display Area -->
+
+</body>
+</html>	</div>
+

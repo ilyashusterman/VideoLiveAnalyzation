@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Домен направлен на сервера NIC.UA</title>
+  <meta name="description" content="Домен зарегистрирован на NIC.UA. Закажите хостинг для своего домена. &#9742; +380 44 593-32-22" />
+  <link href="//img.nic.ua/p/style.css" rel="stylesheet" />
+  <link href="//img.nic.ua/f/sites/nic/css/b.css" rel="stylesheet" />
+  <link href="//img.nic.ua/favicon.ico" rel="shortcut icon" />
+  
+  <script src="//img.nic.ua/f/_source/js/jquery-1.6.2.min.js"></script>
+  <script src="//img.nic.ua/f/js/b.rus.js"></script>
+  <script src="//img.nic.ua/f/js/b.ukr.js"></script>
+  <script src="//img.nic.ua/f/js/b.eng.js"></script>
+  <script>
+	$(document).ready(function(){
+		var lang,
+			lastLang='',
+			langRel={'ru': 'rus', 'en': 'eng', 'uk': 'ukr'};
+	    if (navigator
+	            && navigator.userAgent
+	            && (lang = navigator.userAgent
+	                    .match(/android.*\W(\w\w)-(\w\w)\W/i))) {
+	        lang = lang[1];
+	    }
+
+	    if (!lang && navigator) {
+	        if (navigator.language) {
+	            lang = navigator.language;
+	        } else if (navigator.browserLanguage) {
+	            lang = navigator.browserLanguage;
+	        } else if (navigator.systemLanguage) {
+	            lang = navigator.systemLanguage;
+	        } else if (navigator.userLanguage) {
+	            lang = navigator.userLanguage;
+	        }
+	        lang = lang.substr(0, 2);
+	    }
+	    // переводим название языка в соответствие с основным сайтом
+	    lang=langRel[lang];
+
+	    function showLang(lng) {
+	    	$('.lang').hide();
+			$('.lang.'+lng).slideDown(300);
+			resetBanners(lng);
+			lastLang=lng;
+	    }
+	    showLang(lang)
+
+	    function makeBanners() {
+	    	var lng,  pbpL, bnContainer,
+	    		p, target, t;
+	    	for (lng in pbp) {
+	    		resetBanners(lng);
+	    	}
+	    }
+	    function resetBanners(lng) {
+	    	var pbpL=pbp[lng],
+				bnContainer=$('.lang.'+lng).find('.id-banners');
+		    //console.log(lng);
+    		if (bnContainer.size() && pbpL.length) {
+    			var p=new Array(),
+    				t='', target, i;
+    			for (i=0;i<pbpL.length;i++) { p[i] = pbpL[i]; }
+    			for (i=0;i<2;i++) {
+    				var idx = Math.round(100000*Math.random()) % p.length;						
+				    if (p[idx].newwin) { target = ' target="_blank" '; } else { target = ''; }
+					t = t + '<li class="preview-box-item"><div><a '+target+'class="preview-image '+p[idx].c+'" href="'+p[idx].l+'" >' +
+							'<img src="http://nic.ua/f/i/backgrounds/transparent.gif" alt=""/>' +
+							'<span class="title"><span>'+p[idx].t+'</span></span>' +
+		                    ((p[idx].r)?('<span class="notice"><span>'+p[idx].r+'</span></span>'):'')+
+							'</a><p>'+p[idx].n+'</p></div></li>';								
+					p.splice(idx,1);
+    			}
+    			bnContainer.html('<ul class="preview-box-list nm">'+t+'</ul>');
+    		}
+	    }
+	    makeBanners();
+		
+		$('.show-lang').click(function(){
+			var lng=$(this).attr('href').substr(1);
+			showLang(lng);
+		});
+
+
+		var lastHash=window.location.hash.substr(1);
+		function checkHash() {
+			var curHash=window.location.hash.substr(1);
+			if (curHash!=lastHash) {
+				var lng=curHash;
+				if (lastLang!=lng) {
+					switch (lng) {
+					    case 'rus':
+					    case 'eng':
+					    case 'ukr': {
+					    	showLang(lng);
+							break;
+					    }
+					}
+				}
+				lastHash=curHash;
+			}
+			setTimeout(checkHash,100);
+		}
+		setTimeout(checkHash,100);
+
+		
+	});
+  </script>
+</head>
+<body>
+<div class="lang rus">
+	<div class="logo">
+		<a href="https://nic.ua"><img src="//brand.nic.ua/files/nicua-color.png" width="154" height="44" alt="Регистратор доменных имён NIC.UA" /></a>
+	</div>
+	
+	<div class="lang-switcher">
+		<ul>
+			<li class="active"><a href="#rus"><i class="ru"></i><span>Рус</span></a></li>
+			<li><a class="show-lang" href="#ukr"><i class="uk"></i><span>Укр</span></a></li>
+			<li><a class="show-lang" href="#eng"><i class="en"></i><span>Eng</span></a></li>
+		</ul>
+	</div>
+
+	<div class="primary-info">
+		<h1>Домен <script type="text/javascript">document.write(document.domain);</script> направлен на&nbsp;сервера&nbsp;<abbr><a rel="nofollow" href="https://nic.ua/">NIC.UA</a></abbr></h1>
+		<p><script type="text/javascript"> document.write('<a class=whois target=_blank href=http://dig.ua/search/' + document.domain + '>'); </script>Узнать владельца домена</a></p>
+	</div>
+
+	<div class="wrapper">
+		
+		<div class="fl-wrapper">
+			
+		
+			<div class="rest">
+				
+				
+				<div class="why">
+					<h2>Почему я&nbsp;вижу эту страницу?</h2>
+					<p>Эта страница отображается, если:
+						<ul class="standard"> 
+							<li><span>ваш домен настроен на хостинг, для которого ещё не создан хостинг-аккаунт;</span></li>
+							<li><span>вы указали неправильные настройки для домена;</span></li>
+							<li><span>ваш хостинг-аккаунт удалён с сервера.</span></li>
+						</ul>
+					</p>
+									
+					<p class="support">По любым вопросам обращайтесь в&nbsp;<a rel="nofollow" href="http://support.nic.ua" target="_blank">клиентскую&nbsp;поддержку</a>.</p>
+					</div>
+					<div class="parking">
+					<h2>Парковка домена</h2>
+					<p>Для бесплатной парковки любого домена используйте следующие <abbr>NS</abbr>:</p>
+					<ul>
+						<li><code>parked1.uadns.com</code></li>
+						<li><code>parked2.uadns.com</code></li>
+					</ul>
+					
+					
+					<div class="context">
+						
+					<!--	<div class="id-banners"></div> -->
+					</div>
+					
+				</div>
+			</div>
+					
+					<div class="blitz">
+						<!--<form method="POST" action="http://nic.ua/rus/card.html">
+							<h3>
+								<label for="search">Поиск свободных доменов</label>
+							</h3>
+							<input id="search" type="text" name="dList" placeholder="Введите имя домена..." /> <button id="submit"><img src="//img.nic.ua/p/arrow.png" alt="" /></button>
+							<input type="hidden" value="102" name="cardId" />
+							<input type="hidden" value="" name="aci" />
+							<input type="hidden" value="yes" name="loopback" />
+							
+						</form>-->
+						
+						<h3>Закажите другие услуги:</h3>
+						
+				<div class="other-services">
+           
+                <table><tr>
+                    <td valign="top"><a href="https://nic.ua/ru/domains"><img src="//img.nic.ua/p/icon-domain.png" alt="Домены"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/ru/domains">Домены</a>
+                <div>10 лет бесперебойной работы. Скидки, бонусы и партнерская программа.</div></td>
+                <td valign="top"><a href="https://nic.ua/ru/hosting/website"><img src="//img.nic.ua/p/icon-hosting.png" alt="Хостинг"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/ru/hosting/website">Хостинг</a>
+                <div>Высокая производительность. Удобная панель управления.</div></td>
+                <td valign="top"><a href="https://nic.ua/ru/protection/tm"><img src="//img.nic.ua/p/icon-tm.png" alt="Торговая марка"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/ru/protection/tm">Торговая марка</a>
+                <div>Защитим права и поможем со всеми бумагами.</div></td>
+                </tr></table>
+             
+          </div>
+
+					</div>
+					
+				
+		</div>
+		
+	</div>
+
+	<div class="footer">
+		<div class="copy">© <abbr>ООО</abbr> «<a rel="nofollow" href="https://nic.ua">НИК.Юэй</a>», <script type="text/javascript">var toDay = new Date();document.write(toDay.getFullYear());</script></div>
+		
+		<div class="social">
+			<a href="https://plus.google.com/115690506592539729630" target="_blank"><img src="//img.nic.ua/p/gplus.png" width="25" height="26" alt="NIC.UA в Google Plus" /></a>&nbsp;
+			<a href="http://twitter.com/nic_ua" target="_blank"><img src="//img.nic.ua/p/tw.png" width="25" height="26" alt="NIC.UA в Twitter" /></a>&nbsp;
+			<a href="http://www.facebook.com/club.nic.ua" target="_blank"><img src="//img.nic.ua/p/fb.png" width="25" height="26" alt="NIC.UA в Facebook" /></a>&nbsp;
+			<a href="http://info.nic.ua" target="_blank"><img src="//img.nic.ua/p/infonic.png" width="26" height="26" alt="Инфоник — новости доменного бизнеса" /></a>
+		</div>
+	</div>
+</div>
+
+<div class="lang ukr">
+	<div class="logo">
+		<a href="https://nic.ua/uk"><img src="//brand.nic.ua/files/nicua-color.png" width="154" height="44" alt="NIC.UA" /></a>
+	</div>
+	
+	<div class="lang-switcher">
+		<ul>
+			<li><a class="show-lang" href="#rus"><i class="ru"></i><span>Рус</span></a></li>
+			<li class="active"><a href="#ukr"><i class="uk"></i><span>Укр</span></a></li>
+			<li><a class="show-lang" href="#eng"><i class="en"></i><span>Eng</span></a></li>
+		</ul>
+	</div>
+
+	<div class="primary-info">
+		<h1>Домен <script type="text/javascript">document.write(document.domain);</script> підтримується сервісом <abbr><a rel="nofollow" href="https://nic.ua/">NIC.UA</a></abbr></h1>
+		<p><script type="text/javascript"> document.write('<a class=whois target=_blank href=http://dig.ua/search/' + document.domain + '>'); </script>Дізнатися власника домену</a></p>
+	</div>
+
+	<div class="wrapper">
+		
+		<div class="fl-wrapper">
+			
+		
+			<div class="rest">
+				
+				
+				<div class="why">
+					<h2>Чому я бачу цю сторінку?</h2>
+					<p>Ця сторінка відображається, якщо:
+						<ul class="standard"> 
+							<li><span>ваш домен спрямований на хостинг, для якого ще не створений хостинг-акаунт;</span></li>
+							<li><span>ви вказали неправильні налаштування для домену;</span></li>
+							<li><span>ваш хостинг-акаунт видалений з сервера.</span></li>
+						</ul>
+					</p>
+					
+					<p class="support">З будь-яких питань звертайтесь до <a href="http://support.nic.ua" target="_blank">клієнтської підтримки</a>.</p>
+					</div>
+				
+				<div class="parking">
+					<h2>Паркування домену</h2>
+					<p>Для безкоштовного паркування будь-якого домену використовуйте наступні <abbr>NS</abbr>:</p>
+					<ul>
+						<li><code>parked1.uadns.com</code></li>
+						<li><code>parked2.uadns.com</code></li>
+					</ul>
+					
+					
+					<div class="context">
+						
+						<!--<div class="id-banners"></div>-->
+					</div>
+					
+				</div>
+			</div>
+					
+					<div class="blitz">
+						<!--<form method="POST" action="http://img.nic.ua/rus/card.html">
+							<h3>
+								<label for="search">Пошук вільних доменів</label>
+							</h3>
+							<input id="search" type="text" name="dList" placeholder="Введіть доменне ім’я..." /> <button id="submit"><img src="//img.nic.ua/p/arrow.png" alt="" /></button>
+							<input type="hidden" value="102" name="cardId" />
+							<input type="hidden" value="" name="aci" />
+							<input type="hidden" value="yes" name="loopback" />
+							
+						</form>-->
+						
+						<h3>Замовте інші послуги:</h3>
+				
+				<div class="other-services">
+				    <table><tr>
+                    <td valign="top"><a href="https://nic.ua/uk/domains"><img src="//img.nic.ua/p/icon-domain.png" alt="Домени"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/uk/domains">Домени</a>
+                <div>10 років роботи без перебою. Знижки, бонуси та партнерська програма.</div></td>
+                <td valign="top"><a href="https://nic.ua/uk/hosting/website"><img src="//img.nic.ua/p/icon-hosting.png" alt="Хостинг"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/uk/hosting/website">Хостинг</a>
+                <div>Висока продуктивність. Зручна панель управління.</div></td>
+                <td valign="top"><a href="https://nic.ua/uk/protection/tm"><img src="//img.nic.ua/p/icon-tm.png" alt="Торгова марка"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/uk/protection/tm">Торгова марка</a>
+                <div>Захистимо права та допоможемо з усіма паперами.</div></td>
+                </tr></table>
+            
+          </div>
+
+					</div>
+				
+		</div>
+		
+	</div>
+
+	<div class="footer">
+		<div class="copy">© ТОВ «<a rel="nofollow" href="https://nic.ua/uk">НІК.Юей</a>», <script type="text/javascript">var toDay = new Date();document.write(toDay.getFullYear());</script></div>
+		
+		<div class="social">
+			<a href="https://plus.google.com/115690506592539729630" target="_blank"><img src="//img.nic.ua/p/gplus.png" width="25" height="26" alt="NIC.UA в Google Plus" /></a>&nbsp;
+			<a href="http://twitter.com/nic_ua" target="_blank"><img src="//img.nic.ua/p/tw.png" width="25" height="26" alt="NIC.UA в Twitter" /></a>&nbsp;
+			<a href="http://www.facebook.com/club.nic.ua" target="_blank"><img src="//img.nic.ua/p/fb.png" width="25" height="26" alt="NIC.UA в Facebook" /></a>&nbsp;
+			<a href="http://info.nic.ua" target="_blank"><img src="//img.nic.ua/p/infonic.png" width="26" height="26" alt="Iнфонiк" /></a>
+		</div>
+	</div>
+</div>
+
+<div class="lang eng">
+	<div class="logo">
+		<a href="https://nic.ua/en"><img src="//brand.nic.ua/files/nicua-color.png" width="154" height="44" alt="NIC.UA" /></a>
+	</div>
+
+	<div class="lang-switcher">
+		<ul>
+			<li><a class="show-lang" href="#rus"><i class="ru"></i><span>Рус</span></a></li>
+			<li><a class="show-lang" href="#ukr"><i class="uk"></i><span>Укр</span></a></li>
+			<li class="active"><a href="#eng"><i class="en"></i><span>Eng</span></a></li>
+		</ul>
+	</div>
+
+	<div class="primary-info">
+		<h1>Domain <script type="text/javascript">document.write(document.domain);</script> is directed to&nbsp;a&nbsp;<abbr><a rel="nofollow" href="https://nic.ua/">NIC.UA</a></abbr> server</h1>
+		<p><script type="text/javascript"> document.write('<a class=whois target=_blank href=http://dig.ua/search/' + document.domain + '>'); </script>Who is the owner of this domain name?</a></p>
+	</div>
+
+	<div class="wrapper">
+		
+		<div class="fl-wrapper">
+			
+		
+			<div class="rest">
+				
+				
+				<div class="why">
+					<h2>Why am I seeing this page?</h2>
+					<p>This page may be displayed in the following cases:
+						<ul class="standard"> 
+							<li><span>your domain is directed to a server, for which a hosting account has not been created;</span></li>
+							<li><span>the settings for the domain that you set contain an error;</span></li>
+							<li><span>your hosting account has been deleted from the server.</span></li>
+						</ul>
+					</p>
+					
+					<p class="support">For any questions please contact <a href="http://support.nic.ua/?" target="_blank">customer support</a>.</p>
+					
+					</div>
+				
+				<div class="parking">
+					<h2>Domain name parking</h2>
+					<p>For free parking of any domain name use the following <abbr>NS</abbr>:</p>
+					<ul>
+						<li><code>parked1.uadns.com</code></li>
+						<li><code>parked2.uadns.com</code></li>
+					</ul>
+					
+					
+					<div class="context">
+						
+						<!--<div class="id-banners"></div>-->
+					</div>
+					
+				</div>
+			</div>
+					<div class="blitz">
+						<!--<form method="POST" action="http://img.nic.ua/rus/card.html">
+							<h3>
+								<label for="search">Find available domain names</label>
+							</h3>
+							<input id="search" type="text" name="dList" placeholder="Enter the domain name..." /> <button id="submit"><img src="//img.nic.ua/p/arrow.png" alt="" /></button>
+							<input type="hidden" value="102" name="cardId" />
+							<input type="hidden" value="" name="aci" />
+							<input type="hidden" value="yes" name="loopback" />
+							
+						</form>-->
+						
+						<h3>Order other services:</h3>
+					
+				<div class="other-services">
+				    <table><tr>
+                    <td valign="top"><a href="https://nic.ua/uk/domains"><img src="//img.nic.ua/p/icon-domain.png" alt="Domains"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/uk/domains">Domains</a>
+                <div>10 years of reliable work. Discounts, bonus points and referral program.</div></td>
+                <td valign="top"><a href="https://nic.ua/uk/hosting/website"><img src="//img.nic.ua/p/icon-hosting.png" alt="Hosting"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/uk/hosting/website">Hosting</a>
+                <div>High productivity. Convenient control panel.</div></td>
+                <td valign="top"><a href="https://nic.ua/uk/protection/tm"><img src="//img.nic.ua/p/icon-tm.png" alt="Trademark registration"></a></td>
+                <td width="25%" valign="top"><a rel="nofollow" href="https://nic.ua/uk/protection/tm">Trademark registration</a>
+                <div>We protect your rights and help with the documents.</div></td>
+                </tr></table>
+            
+          </div>
+
+					</div>
+					
+				
+		</div>
+		
+	</div>
+
+	<div class="footer">
+		<div class="copy">© <a rel="nofollow" href="https://nic.ua/en">NIC.UA</a> LLC, <script type="text/javascript">var toDay = new Date();document.write(toDay.getFullYear());</script></div>
+		
+		<div class="social">
+			<a href="https://plus.google.com/115690506592539729630" target="_blank"><img src="//img.nic.ua/p/gplus.png" width="25" height="26" alt="NIC.UA on Google Plus" /></a>&nbsp;
+			<a href="http://twitter.com/nic_ua" target="_blank"><img src="//img.nic.ua/p/tw.png" width="25" height="26" alt="NIC.UA on Twitter" /></a>&nbsp;
+			<a href="http://www.facebook.com/club.nic.ua" target="_blank"><img src="//img.nic.ua/p/fb.png" width="25" height="26" alt="NIC.UA on Facebook" /></a>&nbsp;
+			<a href="http://info.nic.ua" target="_blank"><img src="//img.nic.ua/p/infonic.png" width="26" height="26" alt="Infonic" /></a>
+		</div>
+	</div>
+</div>
+</body>
+</html>
