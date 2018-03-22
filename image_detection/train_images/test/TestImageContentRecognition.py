@@ -1,7 +1,7 @@
 from unittest import TestCase
 from unipath import Path
 
-from image_detection.train_images.ImageRecognition import ImageRecognition
+from image_detection.train_images.ImageContentRecognition import ImageRecognition
 
 
 class TestImageRecognition(TestCase):
