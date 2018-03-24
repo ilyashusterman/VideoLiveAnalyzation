@@ -38,15 +38,21 @@ class ImageDistanceRecognition(object):
 
     def calculate_distance(self, image_path):
         image = cv2.imread(image_path)
+        return self.get_distance_object(image)
+
+    def get_distance_object(self, image):
         marker = self.find_marker(image)
         if self.initial_local_length is None:
             self.initial_local_length = (marker[1][0] * KNOWN_DISTANCE) / KNOWN_WIDTH
+        per_width = marker[1][0]
         inches = self.distance_to_camera(KNOWN_WIDTH,
                                          self.initial_local_length,
-                                         marker[1][0])
-        return self.inches_to_meters(inches)
+                                         per_width)
+        return {'meters': self.inches_to_meters(inches),
+                'width': per_width,
+                'marker': marker}
 
     def inches_to_meters(self, inches):
-        cm = inches * 2.54
-        meter = cm / 100.00
+        feet = inches / 12.00
+        meter = feet / 3.28084
         return meter
